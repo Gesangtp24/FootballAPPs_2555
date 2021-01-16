@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FootballApps2555</string>
+
+    <string name="tanggal">Tanggal</string>
+    <string name="team_a">Team A</string>
+    <string name="_0_vs_0">0 VS 0</string>
+    <string name="team_b">Team B</string>
+
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defender">Defenders</string>
+    <string name="midfielder">Midfielders</string>
+    <string name="forward">Forwards</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
